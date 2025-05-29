@@ -27,9 +27,14 @@ Open a terminal window and navigate to the project directory:
 gcc server.c -o server  
 gcc client.c -o client
 ```  
-
-In the 1st terminal window run: ./server  
-In the 2nd terminal window run: ./client
+In one terminal window, first run:
+```
+./server
+```
+In a second terminal window, run:
+```
+./client
+```
 
 ## How It Works
 
