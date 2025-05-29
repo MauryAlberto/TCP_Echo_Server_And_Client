@@ -41,7 +41,7 @@ In the 2nd terminal window run: ./client
 
 - **Socket functions**: `socket()`, `bind()`, `listen()`, `accept()`, `connect()`
 - **Networking protocol**: TCP/IP with IPv4
-- **Data transmission**: `read()`, `write()`, `send()`, `recv()`
+- **Data transmission**: `read()`, `write()`, `send()`
 - **Address structures**: `struct sockaddr_in`, `htons()`, `inet_addr()`
 - **Buffer management**: `memset()`, `fgets()`
 
