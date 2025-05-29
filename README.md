@@ -44,7 +44,7 @@ In a second terminal window, run:
 
 ## Key Concepts Used
 
-- **Socket functions**: `socket()`, `bind()`, `listen()`, `accept()`, `connect()`
+- **Socket functions**: `socket()`, `bind()`, `listen()`, `accept()`, `connect()`, `close()`
 - **Networking protocol**: TCP/IP with IPv4
 - **Data transmission**: `read()`, `write()`, `send()`
 - **Address structures**: `struct sockaddr_in`, `htons()`, `inet_addr()`
