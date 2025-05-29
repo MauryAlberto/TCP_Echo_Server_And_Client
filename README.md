@@ -1,6 +1,5 @@
 # TCP Echo Server and Client in C
-This project demonstrates a simple TCP client-server chat application written in C. The **server** listens for incoming connections and **echoes back** any messages received from the client.  
-This project was made to demonstrate basic network programming in C.
+This project demonstrates a simple TCP client-server chat application written in C. The **server** listens for incoming connections and **echoes back** any messages received from the client. This project was made to demonstrate basic network programming in C.
 
 ## Features
 
